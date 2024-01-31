@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a HTML-based recipe website. In it's completion, I will have demonstrated a foundational knowledge not only of the HTML boilerplate and its extending functions, but also of the use of Git in constructing iterative versions of the site and using it to detail any changes I make.
